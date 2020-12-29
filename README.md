@@ -1,3 +1,3 @@
 # phishing-canvas
 
-Phishing site using UTK Canvas login page
+Phishing page using UTK Canvas login site
